@@ -1,0 +1,27 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background with rounded corners -->
+  <rect width="256" height="256" rx="52" fill="#e8ff47"/>
+
+  <!-- Shield body -->
+  <path d="M128 44L190 66V140C190 174 163 200 128 212C93 200 66 174 66 140V66L128 44Z" fill="#0a0a0b"/>
+
+  <!-- Crosshair outer circle -->
+  <circle cx="128" cy="132" r="34" stroke="#e8ff47" stroke-width="2" fill="none"/>
+
+  <!-- Crosshair inner circle -->
+  <circle cx="128" cy="132" r="16" stroke="#e8ff47" stroke-width="2" fill="none"/>
+
+  <!-- Center dot -->
+  <circle cx="128" cy="132" r="3.5" fill="#e8ff47"/>
+
+  <!-- Cross — top -->
+  <line x1="128" y1="90" x2="128" y2="112" stroke="#e8ff47" stroke-width="2" stroke-linecap="round"/>
+  <!-- Cross — bottom -->
+  <line x1="128" y1="152" x2="128" y2="174" stroke="#e8ff47" stroke-width="2" stroke-linecap="round"/>
+  <!-- Cross — left -->
+  <line x1="86" y1="132" x2="108" y2="132" stroke="#e8ff47" stroke-width="2" stroke-linecap="round"/>
+  <!-- Cross — right -->
+  <line x1="148" y1="132" x2="170" y2="132" stroke="#e8ff47" stroke-width="2" stroke-linecap="round"/>
+
+</svg>
